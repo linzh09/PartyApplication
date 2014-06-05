@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Party">
+  <DataContextMoniker Name="/PartyDataContext" />
+  <nestedChildShapes>
+    <classShape Id="b66962af-5d4f-4402-9bcd-74b9cca5e979" absoluteBounds="0.5, 1.125, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/PartyDataContext/Party" />
+      <nestedChildShapes>
+        <elementListCompartment Id="73b4c032-91ac-4ff4-b456-6fa8b590ebe4" absoluteBounds="0.51500000000000012, 1.585, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c2c7b591-927f-4519-bf33-574359c16679" absoluteBounds="3.625, 1.375, 2, 1.3862939453125">
+      <DataClassMoniker Name="/PartyDataContext/Reservation" />
+      <nestedChildShapes>
+        <elementListCompartment Id="12fc064e-e0ca-4eee-8f7a-cddec8f0e275" absoluteBounds="3.6399999999999997, 1.835, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.5 : 2.06814697265625); (3.625 : 2.06814697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/PartyDataContext/Party/Party_Reservation" />
+      <nodes>
+        <classShapeMoniker Id="b66962af-5d4f-4402-9bcd-74b9cca5e979" />
+        <classShapeMoniker Id="c2c7b591-927f-4519-bf33-574359c16679" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

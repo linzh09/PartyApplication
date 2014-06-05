@@ -1,0 +1,8 @@
+c:\users\lindsay\documents\visual studio 2010\Projects\PartyApp\PartyApp.Tests\bin\Debug\PartyApp.Tests.dll.config
+c:\users\lindsay\documents\visual studio 2010\Projects\PartyApp\PartyApp.Tests\bin\Debug\PartyApp.Tests.dll
+c:\users\lindsay\documents\visual studio 2010\Projects\PartyApp\PartyApp.Tests\bin\Debug\PartyApp.Tests.pdb
+c:\users\lindsay\documents\visual studio 2010\Projects\PartyApp\PartyApp.Tests\bin\Debug\PartyApp.dll
+c:\users\lindsay\documents\visual studio 2010\Projects\PartyApp\PartyApp.Tests\bin\Debug\PartyApp.pdb
+c:\users\lindsay\documents\visual studio 2010\Projects\PartyApp\PartyApp.Tests\obj\Debug\PartyApp.Tests.csprojResolveAssemblyReference.cache
+c:\users\lindsay\documents\visual studio 2010\Projects\PartyApp\PartyApp.Tests\obj\Debug\PartyApp.Tests.dll
+c:\users\lindsay\documents\visual studio 2010\Projects\PartyApp\PartyApp.Tests\obj\Debug\PartyApp.Tests.pdb

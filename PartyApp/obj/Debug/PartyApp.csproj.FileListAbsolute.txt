@@ -1,0 +1,5 @@
+c:\users\lindsay\documents\visual studio 2010\Projects\PartyApp\PartyApp\bin\PartyApp.dll
+c:\users\lindsay\documents\visual studio 2010\Projects\PartyApp\PartyApp\bin\PartyApp.pdb
+c:\users\lindsay\documents\visual studio 2010\Projects\PartyApp\PartyApp\obj\Debug\PartyApp.csprojResolveAssemblyReference.cache
+c:\users\lindsay\documents\visual studio 2010\Projects\PartyApp\PartyApp\obj\Debug\PartyApp.dll
+c:\users\lindsay\documents\visual studio 2010\Projects\PartyApp\PartyApp\obj\Debug\PartyApp.pdb
